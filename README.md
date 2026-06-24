@@ -57,6 +57,6 @@ The dashboard includes:
 
 ## Author
 
-Naledi [Surname]
+Naledi Papo
 
 Future Interns Data Science & Analytics Internship
